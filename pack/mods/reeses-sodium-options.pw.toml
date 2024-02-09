@@ -1,18 +1,13 @@
 name = "Reese's Sodium Options"
-filename = "reeses_sodium_options-1.6.4+mc1.19.2-build.93.jar"
+filename = "reeses_sodium_options-1.5.1+mc1.20-build.74.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/uCsFu5xs/reeses_sodium_options-1.6.4%2Bmc1.19.2-build.93.jar"
+url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/SgSIhHQO/reeses_sodium_options-1.5.1%2Bmc1.20-build.74.jar"
 hash-format = "sha1"
-hash = "b3e82b1a9a226575dff81690559281d02e417e23"
+hash = "ff2fb322da5ca3edc25b55234e0f883797e18647"
 
 [update]
 [update.modrinth]
 mod-id = "Bh37bMuy"
-version = "uCsFu5xs"
-
-[option]
-optional = true
-description = "Improves the user experience of the Sodium video settings menu - disable if you prefer something like Xander's Sodium Options"
-default = true
+version = "SgSIhHQO"

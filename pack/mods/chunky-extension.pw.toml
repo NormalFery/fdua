@@ -1,13 +1,13 @@
 name = "Chunky Extension"
-filename = "chunky-extended-2.0.0.jar"
+filename = "chunky_extended-2.1.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/LFJf0Klb/versions/khVOwbfw/chunky-extended-2.0.0.jar"
+url = "https://cdn.modrinth.com/data/LFJf0Klb/versions/FyCBGvsX/chunky_extended-2.1.1.jar"
 hash-format = "sha1"
-hash = "9f46efdd3862b79c0cf75f70869807aba971b5a0"
+hash = "c2be0076e1839dd3170d591e05055c4ee4fe6568"
 
 [update]
 [update.modrinth]
 mod-id = "LFJf0Klb"
-version = "khVOwbfw"
+version = "FyCBGvsX"

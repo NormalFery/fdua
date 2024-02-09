@@ -1,0 +1,13 @@
+name = "Pridepack"
+filename = "pridepack5.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yPbBrzEX/versions/brM1ReUE/pridepack5.1.zip"
+hash-format = "sha1"
+hash = "06a4cd042db31fa34a180b1314c9e51b42540ad8"
+
+[update]
+[update.modrinth]
+mod-id = "yPbBrzEX"
+version = "brM1ReUE"

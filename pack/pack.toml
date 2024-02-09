@@ -1,13 +1,13 @@
-name = "drss"
-author = "intergrav"
-version = "1.0.0+1.19.2.quilt"
+name = "fdua"
+author = "Fery - Based on DRSS (By Devin)"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "22f167627b7cf59e605d7d760ed699c2deb62a66239c3e8c2cba35f36c3c6aaa"
+hash = "e59c15734bc4326d4f7d97a342edcc6ff375fb49b2b98607cd5a3c0f46e42e31"
 
 [versions]
-minecraft = "1.19.2"
-quilt = "0.21.0"
+minecraft = "1.20.1"
+quilt = "0.23.1"

@@ -1,18 +1,13 @@
 name = "WTHIT"
-filename = "wthit-quilt-5.19.0.jar"
+filename = "wthit-quilt-8.6.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/nUiC76bU/wthit-quilt-5.19.0.jar"
+url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/GlIrL4vN/wthit-quilt-8.6.0.jar"
 hash-format = "sha1"
-hash = "6112175e746257096ae7b522b52ba15595e8ff27"
+hash = "6d2d42feccc1f7a5a590ae984a21a4dc128da9dc"
 
 [update]
 [update.modrinth]
 mod-id = "6AQIaxuO"
-version = "nUiC76bU"
-
-[option]
-optional = true
-description = "WAILA clone or something"
-default = true
+version = "GlIrL4vN"
