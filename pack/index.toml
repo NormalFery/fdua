@@ -276,11 +276,6 @@ hash = "738234a75b69eadde29b6ebda5f0be28a3ac7f583d31f9a9a62febd4e784c3b7"
 metafile = true
 
 [[files]]
-file = "mods/create-fabric.pw.toml"
-hash = "e5bbc96d6d5d6bffb8e36c89bbd1331d923e23fbb87be8bae208d206832adb1c"
-metafile = true
-
-[[files]]
 file = "mods/create-origins.pw.toml"
 hash = "98b41adf822f00af6c0caef0f47efc112003bcc1784fd58b7a25c42735f32a59"
 metafile = true
@@ -358,11 +353,6 @@ metafile = true
 [[files]]
 file = "mods/extra-origins.pw.toml"
 hash = "67967605a5a1603de48fd6613469fb86f6beb30a2702b2aca64210c57d57573a"
-metafile = true
-
-[[files]]
-file = "mods/fabric-language-kotlin.pw.toml"
-hash = "bd278a821fa158a7ffedb511c84e5bc0887192ceae21f9038b30357edd64a9e9"
 metafile = true
 
 [[files]]
