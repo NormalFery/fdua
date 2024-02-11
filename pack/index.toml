@@ -1,6 +1,166 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/do_a_barrel_roll-server.json"
+hash = "bdd8c4ee167b4ed3f8461032b1d02440f58912966ccf46ba761e2578970b3f1a"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "35772bb97833a7597571fe22556657ba2e884772f33a974a62ffe156d7ca5eb3"
+
+[[files]]
+file = "config/mod-loading-screen/background.png"
+hash = "d0558700b3d21a379ae89997365587db6c62c8c7732b27e39ec5d901556f21bf"
+
+[[files]]
+file = "config/mod-loading-screen/readme.txt"
+hash = "a4291e05c068a54fc5cc36756aff17b8a50be5913a8a0b45f9fc603f97067293"
+
+[[files]]
+file = "config/quickconnectbutton.json5"
+hash = "34ed7efb3b0cd5baf17bd9fdbd445b5ef6b4b1513b9193098b94edc97cd3da09"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Client.json"
+hash = "c2d630790d8cb824b19129c436172a4465f5936e4680c8f18a267a1fc3b150e7"
+
+[[files]]
+file = "config/yosbr/config/borderlessmining.json"
+hash = "c7983abfbff136519ffeca3ac75f4db10c81d7ad3adae6f4e1f9ad509a04c817"
+
+[[files]]
+file = "config/yosbr/config/c2me.toml"
+hash = "44f5acd01e27d30c44ca0885013cc88823316c592a7fda239d854c4d72eb8578"
+
+[[files]]
+file = "config/yosbr/config/dynamicfps.toml"
+hash = "8eac230e722a59915fa26ed453d780cd2034b65ec39a7ffe88135d16840c9692"
+
+[[files]]
+file = "config/yosbr/config/enhanced_bes.properties"
+hash = "84825744a3386b5194422e99eba7a3f49f0b29d4a9eb74a11921fd558d4571e8"
+
+[[files]]
+file = "config/yosbr/config/entityculling.json"
+hash = "bd5d8eaf56e9ddb5196a85a5713db7e213ed88c8895958f33c01464a1cb0a1d3"
+
+[[files]]
+file = "config/yosbr/config/fastload.properties"
+hash = "08c78ab862dbb711eaa56f41bbf4696e3fe7d7c5882e864bdf6586a0e67234a9"
+
+[[files]]
+file = "config/yosbr/config/ferritecore.mixin.properties"
+hash = "1e0ba1e744212f481d857e2c864104eb8853a825f6557874b739763e208f7e59"
+
+[[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "0d539bf48acbab4079d41894b35a8eca1c68368738fd713de08acecae1dd8509"
+
+[[files]]
+file = "config/yosbr/config/moreculling.toml"
+hash = "459043680fe671f08da4d1a88ff7204fa94880c2a7babba98d68acebc60d49c1"
+
+[[files]]
+file = "config/yosbr/config/rules.json"
+hash = "0339afafab7d6314038ed710547929891d7dc651bc60bdfe665bd34f3aade05e"
+
+[[files]]
+file = "config/yosbr/config/smoothboot.json"
+hash = "c37edec3875da8e561eb60bb7a18dcdce128cc41cfe26261c65a8e942f65d58f"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "7fa2fdbeb82f6838cdfd4e3c686f31aafba333e505509d75b98883fe8a17f450"
+
+[[files]]
+file = "config/yosbr/config/styledplayerlist/config.json"
+hash = "2b6e8b2e66eb2dc79143666152b05e1e8a61280f36902ed96d87029c10c81459"
+
+[[files]]
+file = "config/yosbr/config/styledplayerlist/styles/default.json"
+hash = "e613319c757378ec899c430f42af4198bad4093b70deae67a416fc03f018638b"
+
+[[files]]
+file = "config/yosbr/config/vmp.properties"
+hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "c2ac066c7543e2228d8b2331f993aec6a586f25f988725bf7d555204a2dca330"
+
+[[files]]
+file = "emotes/Bhop jump.emotecraft"
+hash = "74c074083df5a65e91c38423d81b31a7c2078d046d956c8dac63aa756fabd3b2"
+
+[[files]]
+file = "emotes/Cheer.emotecraft"
+hash = "bff0ecf72c000553aa94cb8423ae94d789dac417bc32af770fc0df8512661c98"
+
+[[files]]
+file = "emotes/Family Guy Death.emotecraft"
+hash = "b36d60ceea4397a4fe14c311eece5d489b8c1b8ef12d14e436a942a03a0fcc70"
+
+[[files]]
+file = "emotes/Get Griddy.emotecraft"
+hash = "a8ab90c4536a5fbcee374e6d50a340eedb7ee43e948801c507f22d63117398e4"
+
+[[files]]
+file = "emotes/Hug Blahaj.emotecraft"
+hash = "9fb2479b889c6f1ef7c7bcec7c2ac182e20eac7ccae725eb20f6f522cb02898a"
+
+[[files]]
+file = "emotes/Killed.emotecraft"
+hash = "62a3b6196de9b8990811fb074ded3951afe661ca2fe7e33a36966c79ee56e572"
+
+[[files]]
+file = "emotes/Lay Blahaj.emotecraft"
+hash = "c5cb8e5009a794e1926599058d580281dbb57122365314c89dc763338395ae43"
+
+[[files]]
+file = "emotes/Lay on back.emotecraft"
+hash = "0889868b236fe194f933fae72c3534fc3937ddcc508570b02a48ab954b32f262"
+
+[[files]]
+file = "emotes/Orange Justice.emotecraft"
+hash = "5e4377b8169f4897b87e9e5df130ab5afe4cebb37987582f9f0a708e856c9a34"
+
+[[files]]
+file = "emotes/Sit.emotecraft"
+hash = "264ac557957621b78835714574762648c5f5e553011b8181cad382f9afc66505"
+
+[[files]]
+file = "emotes/ascend.emotecraft"
+hash = "b37da97034aa3cb5ed05fe69a54347cd2db5aa0c1f964409bc2d497076502dfa"
+
+[[files]]
+file = "emotes/club penguin dance.emotecraft"
+hash = "420e3d66c48aafb2ba781457ac33aa83a88a99da74f48afe94af9241062e3a47"
+
+[[files]]
+file = "emotes/cool sit.emotecraft"
+hash = "b7fc49d00052854631db398dd8a80e7d8669eded5394906cf264f1b7a407005d"
+
+[[files]]
+file = "emotes/devinsit.emotecraft"
+hash = "42ad428e5753d3fa816f412c187d3ccc71f12f7d126d2af8ed37cd2718a4cc4e"
+
+[[files]]
+file = "emotes/devinsleep1.emotecraft"
+hash = "ccea48a1eeebb31d3b3170f279d7c06e87f8f4d75d8927fea4acbc7e6b905cd9"
+
+[[files]]
+file = "emotes/devinsleep2.emotecraft"
+hash = "925d016599040cf8120fc7ff6d593966ecfcd8bcdef63fc106bc161e01d76b5b"
+
+[[files]]
+file = "emotes/devinsleep3.emotecraft"
+hash = "053aa04ef86f8090e9378b080fbdecc0549d9894c7b8b8413c9280c9580dbe48"
+
+[[files]]
+file = "emotes/yoinky sploinky.emotecraft"
+hash = "05933bc57359c9b7ace9a619eeb9dac1dac4eca54187e4145cc949a5ed03276f"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "65c47c1758d604d53506af223b6d1a07fbeedc5852175d4cfaabe60ce6d1fd45"
 metafile = true
@@ -16,8 +176,18 @@ hash = "91e0b88ddb7c83790ade2fac07acf67341bae6d5cc93ec0e6434c56d7b791106"
 metafile = true
 
 [[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "525c8448074c4402b411c2b904eff4dae542834c649d13dc00475bd2546fe286"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "0d72044f88935675985397478ca839878bfbf03feab46e9667e81d4c955ae68d"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "9b9cba3fa724134f59e95816e95b980fe9bc6f30798351f9b0628d463fecda3b"
 metafile = true
 
 [[files]]
@@ -43,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/bluemap.pw.toml"
 hash = "c4ee3c1cd7ce65505a5aa2b2e66ed816dfde972e8af736e211314ba66d40a01a"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "628ca822826f31018f97293b673e09defe9bc46616a7636bbd4a3b51ee4c9949"
 metafile = true
 
 [[files]]
@@ -81,6 +256,11 @@ hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
 
 [[files]]
+file = "mods/clutter.pw.toml"
+hash = "171297714b2fdf90eaed2001a5aeedae87b40aac045e4a53ecc4a741a1bb2579"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "bb7b31de1f5c7941aff59030d59168a5971e8c47884bcd8905637836ff97ce46"
 metafile = true
@@ -93,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/create-fabric-sodium-fix.pw.toml"
 hash = "738234a75b69eadde29b6ebda5f0be28a3ac7f583d31f9a9a62febd4e784c3b7"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "e5bbc96d6d5d6bffb8e36c89bbd1331d923e23fbb87be8bae208d206832adb1c"
 metafile = true
 
 [[files]]
@@ -126,6 +311,11 @@ hash = "037876c8c736feeb635e957a53464c26cadbde4820c97c000ec69fb72282f095"
 metafile = true
 
 [[files]]
+file = "mods/do-api.pw.toml"
+hash = "30fb7e07f424a4a159219da3a77841f335357651a081033f5ddcd880814928a2"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "17cb1c44cbc5486f3eedf1e4de4c48c29a4f8cd8282ff757e64c0b6f3b964dd6"
 metafile = true
@@ -133,6 +323,11 @@ metafile = true
 [[files]]
 file = "mods/ears.pw.toml"
 hash = "6a4afd7b42387477795e73b17b8963ea313ce6f8a960343a2579ff0b41544beb"
+metafile = true
+
+[[files]]
+file = "mods/effective.pw.toml"
+hash = "0defe5f1c4912392940ed43a0acbd7a8df22442768dc8eec63c0790d85d22529"
 metafile = true
 
 [[files]]
@@ -156,8 +351,18 @@ hash = "81293a0aad64a6000ba0b25642341074d7bb369c2f8b5f1dd842fcf7eb4088ec"
 metafile = true
 
 [[files]]
+file = "mods/exlines-furniture.pw.toml"
+hash = "6944abd2e52577ba7a9df22b2603509e8c1f704c3b6b2b538207f3beb56a1384"
+metafile = true
+
+[[files]]
 file = "mods/extra-origins.pw.toml"
 hash = "67967605a5a1603de48fd6613469fb86f6beb30a2702b2aca64210c57d57573a"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "bd278a821fa158a7ffedb511c84e5bc0887192ceae21f9038b30357edd64a9e9"
 metafile = true
 
 [[files]]
@@ -181,6 +386,21 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
+file = "mods/furnish-furniture.pw.toml"
+hash = "f420195cd1b9d8e6ccc8291a4ac71a2204668f442daca3f56bfe2b4701c57a83"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "11312f710b3e2b35fbecc7b0a6406d630634680f13a0a3d640e19cbfbd4b865a"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "2e3547b6513fabf4cc51efc2488115ea8297ec0e4845d57abad8d9e1a798b924"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "b411b04e1dace15c7fc1465bb161c8e621750b1577282e0918f956212a57e864"
 metafile = true
@@ -188,6 +408,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "41a3116f5642d40ed54efda3f863373fa4d3c0c3a24a447a38c8a106e9fbb079"
 metafile = true
 
 [[files]]
@@ -211,6 +436,16 @@ hash = "a6454ef50734986eb1f1540b1ec56a910a8f728532769b65665f7c11af420b29"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-bakery.pw.toml"
+hash = "e8d34c88f46c9b3aa1e21031242e7c76d18f53868633e5c20287128dd3a4696c"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-beachparty.pw.toml"
+hash = "5b5c1224a300c3c1db011cb8904f46a7224be672708106869d10d7538786d9a5"
+metafile = true
+
+[[files]]
 file = "mods/lilylib.pw.toml"
 hash = "db70fd37b880be2f192bb9be2805330e273be20563e5e57f7ec7b6617e0183b8"
 metafile = true
@@ -218,6 +453,31 @@ metafile = true
 [[files]]
 file = "mods/luckperms.pw.toml"
 hash = "7826b93c7f36611fbd9190481774daa349fa403875f8522d0ca4302e1345bd40"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "b7efc357b35a9573ec6e623c4fdce341f542def22d39594c47e53086c79da1a6"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "da4ab807bde0d83a4013f475fb0d48526409ff6785a7ba727b798b2ec9c92f28"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "aca145c5044f2ad8829d0b1ac60f9850ee2d6e1e890ead07f59e94a721b46d55"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "971a7e49503555529ad2786ec4fc1c3699033e7233c96980723ea05531b234d9"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "4c3dc1c93ec5be222f504f66c251fbb17a12f1bba04d59b1b34d959ee9d04e30"
 metafile = true
 
 [[files]]
@@ -286,6 +546,11 @@ hash = "f44c2e138b41270813fc1a1f1516ef44018f6ccfe83828deab77a196f746f5ae"
 metafile = true
 
 [[files]]
+file = "mods/plushie.pw.toml"
+hash = "3622c864c31498ddfbf1860318907a90bd0d4fd6fea21f221948b507234dc8c1"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "aa8fddd03c7498d87646cec809d8882b57df91eca30f3c5d0a7ccf42ab4266d5"
 metafile = true
@@ -313,6 +578,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "4fac1756349c0f723621d5c5c1993e0c2b094b3fdff1bcb5006b7f43d803288c"
 metafile = true
 
 [[files]]
@@ -363,6 +633,16 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-core.pw.toml"
+hash = "f9df3436e7cf3297d541b9677bd9a8530e575a561b0cc2744075457b1c08bacd"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-furniture.pw.toml"
+hash = "5f8a2c24c02be04b6939663d79d574eb7f745b1de0fae7ed3b89c071b5a4f7d7"
 metafile = true
 
 [[files]]
@@ -464,6 +744,10 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "2a90807ed3a4933463a8fe3590b04a0be73419faa29cd156528a53ab0407282d"
 metafile = true
+
+[[files]]
+file = "resourcepacks/mermod-trans-tail.zip"
+hash = "79867851cdcb5a3a157b7b70f1bbce199fbf9d9d51252ba3f22818f7973d6ac6"
 
 [[files]]
 file = "resourcepacks/pridepack.pw.toml"
