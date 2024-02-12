@@ -166,6 +166,11 @@ hash = "65c47c1758d604d53506af223b6d1a07fbeedc5852175d4cfaabe60ce6d1fd45"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "bedc5fd207a9959c72565f0131b65a8eec71dcdef3e83f6c4556f81e7292326a"
+metafile = true
+
+[[files]]
 file = "mods/altorigingui.pw.toml"
 hash = "9c5d0f1adf081043b74cd306ba4dee43182c837c06fd35619cf676ee838e44fd"
 metafile = true
@@ -383,6 +388,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "11312f710b3e2b35fbecc7b0a6406d630634680f13a0a3d640e19cbfbd4b865a"
+metafile = true
+
+[[files]]
+file = "mods/gregtechceu-modern.pw.toml"
+hash = "df6e445151b9c83a5c552d1ec8c53ae5a7b426bf3ff4d1ff74f0f97f2020deab"
 metafile = true
 
 [[files]]
@@ -648,6 +658,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "086f56d0a3c8f1a7b289b9949d7de08362f717295d89f0db0d13421ec860a453"
+metafile = true
+
+[[files]]
+file = "mods/wiredredstone.pw.toml"
+hash = "6f1753c4ae3446f7e91bc147588e9dd7b50283075b25ef8bb017099042078157"
 metafile = true
 
 [[files]]
