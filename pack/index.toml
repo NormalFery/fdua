@@ -391,11 +391,6 @@ hash = "11312f710b3e2b35fbecc7b0a6406d630634680f13a0a3d640e19cbfbd4b865a"
 metafile = true
 
 [[files]]
-file = "mods/gregtechceu-modern.pw.toml"
-hash = "df6e445151b9c83a5c552d1ec8c53ae5a7b426bf3ff4d1ff74f0f97f2020deab"
-metafile = true
-
-[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "2e3547b6513fabf4cc51efc2488115ea8297ec0e4845d57abad8d9e1a798b924"
 metafile = true
