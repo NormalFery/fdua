@@ -206,6 +206,11 @@ hash = "b25474cd7e4cff1ff70fbcbd1a466aa518850d8fa82da1114667f04a03fc9fff"
 metafile = true
 
 [[files]]
+file = "mods/better-archeology.pw.toml"
+hash = "29f701e475faa340f6237fbbeec4210843f668462d83e0955d533f944fc69ddc"
+metafile = true
+
+[[files]]
 file = "mods/bits-and-chisels.pw.toml"
 hash = "696dedc5f75137914468457f007ecd6d7621a174a22528af2afc6f73b5b867c0"
 metafile = true
@@ -223,6 +228,11 @@ metafile = true
 [[files]]
 file = "mods/bobby.pw.toml"
 hash = "628ca822826f31018f97293b673e09defe9bc46616a7636bbd4a3b51ee4c9949"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "2f6093d5d0bca4253ca66a4f4909bac6fa36e2e6a9c0a54fb5c56d7707b6283f"
 metafile = true
 
 [[files]]
@@ -351,6 +361,11 @@ hash = "81293a0aad64a6000ba0b25642341074d7bb369c2f8b5f1dd842fcf7eb4088ec"
 metafile = true
 
 [[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "0e8a5f0c1e5d306dcdb4819c799a388eca32429169a3cf0a2bee07124c547639"
+metafile = true
+
+[[files]]
 file = "mods/exlines-furniture.pw.toml"
 hash = "6944abd2e52577ba7a9df22b2603509e8c1f704c3b6b2b538207f3beb56a1384"
 metafile = true
@@ -363,6 +378,11 @@ metafile = true
 [[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "0c4c20d601b15dbc85c275732d9efe9369597503c7d6caa9a7fee217f67073e7"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "a79279c798e10b673c3e7dfbe675a29e09d5709ddf38d7300356346a7d29ac13"
 metafile = true
 
 [[files]]
@@ -623,6 +643,11 @@ metafile = true
 [[files]]
 file = "mods/styledplayerlist.pw.toml"
 hash = "27c9ee50e624c436e1bb6fe4bbeff166f5c6564e9f9a846ffef22e54a200c603"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "4ffea2ce87853a9d9f2342bd28f422447f52647c319cf2392968cabc4539da54"
 metafile = true
 
 [[files]]
