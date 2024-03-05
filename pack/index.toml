@@ -366,6 +366,16 @@ hash = "0e8a5f0c1e5d306dcdb4819c799a388eca32429169a3cf0a2bee07124c547639"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "8a25b9833ad536b08c6c3bd0f2eab8d5d680b0bd18fb9bd3206d47c6f464e5ba"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "d42acbade20a83ebd7faac05fbe979730a40a170e7ea6e31e126d2517bbb33dd"
+metafile = true
+
+[[files]]
 file = "mods/exlines-furniture.pw.toml"
 hash = "6944abd2e52577ba7a9df22b2603509e8c1f704c3b6b2b538207f3beb56a1384"
 metafile = true
@@ -771,12 +781,37 @@ hash = "2a90807ed3a4933463a8fe3590b04a0be73419faa29cd156528a53ab0407282d"
 metafile = true
 
 [[files]]
+file = "resourcepacks/default-dark-mode.pw.toml"
+hash = "dfa12dd42116d5fd064ae312d68e2671ec5661d2a27dc8b4f28f257bfc1ae0d2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/faithful-32x.pw.toml"
+hash = "5bdb73eba9dc4bcb8b022f40d1c7a3dfac077f208a1337ffbe985980d71c7e95"
+metafile = true
+
+[[files]]
+file = "resourcepacks/faithful-64x.pw.toml"
+hash = "e35c39519222a4cbb54a433881bac9703e8d59c9bf25a9d4fba1c0a22c3221ed"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "b57e4566ddd1f48bd1c3a726eed113eb1777fefb7ca1936173187c3fedb94d8f"
+metafile = true
+
+[[files]]
 file = "resourcepacks/mermod-trans-tail.zip"
 hash = "79867851cdcb5a3a157b7b70f1bbce199fbf9d9d51252ba3f22818f7973d6ac6"
 
 [[files]]
 file = "resourcepacks/pridepack.pw.toml"
 hash = "7a22a41ee2f5802ff93627edb48ebb8c389f48f8accab4c6803aad7aa1bd614d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/translations-for-sodium.pw.toml"
+hash = "b88bf4ac61571d87935557329d904c4d1d8ff99ab076944b260c8762dc8ed392"
 metafile = true
 
 [[files]]
