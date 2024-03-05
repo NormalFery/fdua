@@ -506,11 +506,6 @@ hash = "c60ec2ea046a25d7343b7518d12859aa9458392b31cdae18d61e7a7ed2b0d43b"
 metafile = true
 
 [[files]]
-file = "mods/mod-loading-screen.pw.toml"
-hash = "62b1d0123bd16f728ba8808b2f4c7d4d647acebeb4a81d28c3719809af5d03eb"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "1ddc6a247e23e9cb6cafa89d6befd01dd35e36f1347c593d53eccf7f893b942a"
 metafile = true
